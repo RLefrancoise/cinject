@@ -5,6 +5,7 @@
 #include <functional>
 #include <memory>
 #include <unordered_map>
+#include <stdexcept>
 
 
 #define CINJECT_VERSION 1000000 // 1.000.000
